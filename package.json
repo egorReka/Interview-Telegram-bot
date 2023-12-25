@@ -1,0 +1,25 @@
+{
+  "name": "interview-telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/egorReka/Interview-Telegram-bot.git"
+  },
+  "author": "Egor Reka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egorReka/Interview-Telegram-bot/issues"
+  },
+  "homepage": "https://github.com/egorReka/Interview-Telegram-bot#readme",
+  "dependencies": {
+    "grammy": "^1.19.3"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
